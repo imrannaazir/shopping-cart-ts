@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Sony E591 Full Color",
+    "price": 10.99,
+    "imgUrl": "https://rubiktheme.com/demo/at_dimita_demo/24-home_default/sony-e591-full-color.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Apple Smart Watch",
+    "price": 1199,
+    "imgUrl": "https://rubiktheme.com/demo/at_dimita_demo/30-home_default/charging-cradle.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Apple MacBook",
+    "price": 1.05,
+    "imgUrl": "https://rubiktheme.com/demo/at_dimita_demo/54-home_default/macbook-air-2018.jpg"
+  },
+  {
+    "id": 4,
+    "name": "HeadPhone",
+    "price": 14000,
+    "imgUrl": "https://rubiktheme.com/demo/at_dimita_demo/36-home_default/the-best-is-yet-to-come-framed-poster.jpg"
+  }
+]
