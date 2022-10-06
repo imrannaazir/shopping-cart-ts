@@ -21,7 +21,7 @@ const Store = () => {
   return (
     <div className="lg:px-[10%]">
       <p>Store</p>
-      <div>
+      <div className="flex flex-wrap justify-center gap-5">
         {items?.map((item) => (
           <StoreItem item={item} />
         ))}
@@ -29,5 +29,8 @@ const Store = () => {
     </div>
   );
 };
+/* 
 
+  
+*/
 export default Store;
